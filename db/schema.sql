@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS todont_db;
+CREATE DATABASE todont_db;
